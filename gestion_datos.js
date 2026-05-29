@@ -14,7 +14,7 @@ const productos = [
     precio: 2500,
   },
   {
-    id: 2,
+    id: 2,O
     nombre: "Mouse",
     precio: 80,
   },
